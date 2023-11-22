@@ -1,0 +1,8 @@
+body {
+    background-color: #10151b;
+}
+
+.responsive-image {
+    width: 100%;
+    height: auto;
+}
